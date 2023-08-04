@@ -1,2 +1,2 @@
 # project_web_front
-비즈테크아이 탈출해봅시다.
+sns 프로젝트를 위한 react 프로젝트입니다.
